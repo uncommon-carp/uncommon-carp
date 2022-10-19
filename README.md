@@ -1,6 +1,6 @@
-Hello! I'm Cory. I'm a software developer currently working in the IoT space with TypeScript and  GraphQL. I am currently pursuing the AWS Solutions Architect Certification. Formerly a large format graphics professional, I decided to make the leap into development to make better use of my time and skills.
+Hello! I'm Cory. I'm a software developer currently working in the IoT space with TypeScript and  GraphQL. I am currently pursuing the AWS Solutions Architect Certification. Formerly a large format graphics professional, I decided to make the leap into development to find something more fulfilling and engaging.
 
-Here you'll find my hobby projects. 
+I'm really into TS, APIs and server-side programming, and making things that help people.
 
 Outside of coding, I'm an avid fly fisher and gamer. Find me chasing carp around Austin, TX or blasting in Overwatch.
 
