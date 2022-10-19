@@ -1,4 +1,4 @@
-Hello! I'm Cory. I'm a software developer currently working in the IoT space with TypeScript and  GraphQL. I am currently pursuing the AWS Solutions Architect Certification. Formerly a large format graphics professional, I decided to make the leap into development to find something more fulfilling and engaging.
+Hello! I'm Cory. I'm a software developer working in the IoT space with TypeScript and  GraphQL. I am currently pursuing the AWS Solutions Architect Certification. Formerly a large format graphics professional, I decided to make the leap into development to find something more fulfilling and engaging.
 
 I'm really into TS, APIs and server-side programming, and making things that help people.
 
